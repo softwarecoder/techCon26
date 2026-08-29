@@ -1,0 +1,20 @@
+# --- Core Data & Math ---
+pandas>=2.0.0
+numpy>=1.24.0
+faker>=20.0.0
+
+# --- AI & RAG (Retrieval-Augmented Generation) ---
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-google-genai>=1.0.0
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+
+# --- API & Backend ---
+fastapi>=0.100.0
+uvicorn>=0.22.0
+pydantic>=2.0.0
+
+# --- UI & Visualization ---
+streamlit>=1.25.0
+plotly>=5.15.0
