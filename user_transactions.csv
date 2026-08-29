@@ -1,0 +1,63 @@
+date,amount,category,merchant,type
+2026-05-31 16:42:59.801551,-353.05,Entertainment,Steam,Expense
+2026-06-03 16:42:59.801551,-183.86,Entertainment,Local Bar,Expense
+2026-06-04 16:42:59.801551,-345.01,Entertainment,Steam,Expense
+2026-06-05 16:42:59.801551,-344.44,Transport,Local Bus,Expense
+2026-06-06 16:42:59.801551,-226.05,Shopping,Mercado Libre,Expense
+2026-06-09 16:42:59.801551,-128.86,Food,Local Supermarket,Expense
+2026-06-10 16:42:59.801551,-106.98,Entertainment,Cinema,Expense
+2026-06-14 16:42:59.801551,-105.88,Health,Hospital,Expense
+2026-06-15 16:42:59.801551,-1179.52,Utilities,Internet Provider,Expense
+2026-06-17 16:42:59.801551,-255.3,Health,Pharmacy,Expense
+2026-06-18 16:42:59.801551,-86.82,Entertainment,Steam,Expense
+2026-06-19 16:42:59.801551,-125.93,Transport,Local Bus,Expense
+2026-06-20 16:42:59.801551,-388.81,Health,Pharmacy,Expense
+2026-06-21 16:42:59.801551,-192.52,Health,Local Clinic,Expense
+2026-06-22 16:42:59.801551,-234.15,Health,Pharmacy,Expense
+2026-06-24 16:42:59.801551,-176.85,Entertainment,Steam,Expense
+2026-06-25 16:42:59.801551,-221.62,Health,Pharmacy,Expense
+2026-06-27 16:42:59.801551,-195.64,Shopping,Amazon,Expense
+2026-06-28 16:42:59.801551,-1491.15,Utilities,Water Dept,Expense
+2026-07-04 16:42:59.801551,-171.63,Entertainment,Local Bar,Expense
+2026-07-05 16:42:59.801551,-81.35,Food,OXXO,Expense
+2026-07-06 16:42:59.801551,-134.79,Entertainment,Cinema,Expense
+2026-07-07 16:42:59.801551,-62.66,Food,Rappi,Expense
+2026-07-09 16:42:59.801551,-183.07,Health,Pharmacy,Expense
+2026-07-10 16:42:59.801551,-390.41,Shopping,Amazon,Expense
+2026-07-11 16:42:59.801551,-291.82,Entertainment,Local Bar,Expense
+2026-07-12 16:42:59.801551,-142.97,Shopping,Mercado Libre,Expense
+2026-07-13 16:42:59.801551,-265.52,Transport,Local Bus,Expense
+2026-07-14 16:42:59.801551,-267.39,Health,Hospital,Expense
+2026-07-15 16:42:59.801551,-257.9,Shopping,Mercado Libre,Expense
+2026-07-16 16:42:59.801551,-85.21,Health,Local Clinic,Expense
+2026-07-18 16:42:59.801551,-518.02,Utilities,Internet Provider,Expense
+2026-07-19 16:42:59.801551,-281.23,Shopping,Local Mall,Expense
+2026-07-20 16:42:59.801551,-291.86,Entertainment,Cinema,Expense
+2026-07-21 16:42:59.801551,-286.23,Shopping,Mercado Libre,Expense
+2026-07-24 16:42:59.801551,-390.94,Health,Pharmacy,Expense
+2026-07-25 16:42:59.801551,-62.16,Transport,Uber,Expense
+2026-07-26 16:42:59.801551,-929.15,Utilities,Internet Provider,Expense
+2026-07-27 16:42:59.801551,-996.93,Utilities,Spotify,Expense
+2026-07-28 16:42:59.801551,-160.04,Health,Hospital,Expense
+2026-07-29 16:42:59.801551,-117.43,Health,Local Clinic,Expense
+2026-07-31 16:42:59.801551,-22.37,Food,OXXO,Expense
+2026-08-03 16:42:59.801551,-80.58,Entertainment,Local Bar,Expense
+2026-08-04 16:42:59.801551,-320.35,Entertainment,Steam,Expense
+2026-08-05 16:42:59.801551,-1415.91,Utilities,Spotify,Expense
+2026-08-07 16:42:59.801551,-1062.11,Utilities,Internet Provider,Expense
+2026-08-08 16:42:59.801551,-113.15,Food,Mercado Libre Food,Expense
+2026-08-09 16:42:59.801551,-339.59,Transport,99App,Expense
+2026-08-10 16:42:59.801551,-130.6,Food,Mercado Libre Food,Expense
+2026-08-12 16:42:59.801551,-78.49,Food,Carrefour,Expense
+2026-08-13 16:42:59.801551,-237.77,Health,Pharmacy,Expense
+2026-08-16 16:42:59.801551,-127.03,Food,Carrefour,Expense
+2026-08-17 16:42:59.801551,-136.75,Food,Rappi,Expense
+2026-08-18 16:42:59.801551,-66.49,Shopping,Mercado Libre,Expense
+2026-08-20 16:42:59.801551,-67.16,Entertainment,Local Bar,Expense
+2026-08-21 16:42:59.801551,-229.84,Entertainment,Steam,Expense
+2026-08-22 16:42:59.801551,-75.89,Food,Local Supermarket,Expense
+2026-08-23 16:42:59.801551,-276.02,Entertainment,Cinema,Expense
+2026-08-24 16:42:59.801551,-61.34,Food,Rappi,Expense
+2026-08-25 16:42:59.801551,-894.62,Utilities,Water Dept,Expense
+2026-08-27 16:42:59.801551,-139.48,Food,OXXO,Expense
+2026-08-29 16:42:59.801551,-136.24,Shopping,Amazon,Expense
